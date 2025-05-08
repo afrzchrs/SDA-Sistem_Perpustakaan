@@ -5,7 +5,7 @@ Afriza Choirie Saputra
 
 terdapat 4 branch :
 
-branch Perpustakaan SLL
-branch Perpustakaan DLL
-branch Perpustakaan Array Scenario 1
-branch Perpustakaan Array Scenario 2
+branch Perpustakaan SLL,
+branch Perpustakaan DLL,
+branch Perpustakaan Array Scenario 1, dan
+branch Perpustakaan Array Scenario 2.
